@@ -1,5 +1,5 @@
 {
-  "name": "particle-rainbowkit",
+  "name": "particle-rainbowkit-boilerplate",
   "version": "1.0.0",
   "type": "module",
   "description": "Boilerplate application for Particle Auth integration within RainbowKit",
