@@ -7,7 +7,7 @@
   </h3>
 </div>
 
-⚡️ Boilerplate for a RainbowKit module with native [Particle Auth](https://docs.particle.network/developers/auth-service) integration. In this specific example, shortcuts for Apple, Google, and Facebook authentication are provided alongside a general Particle Auth configuation, represented as "Particle."
+⚡️ Boilerplate for a RainbowKit module with native [Particle Auth](https://docs.particle.network/developers/auth-service) integration. In this specific example, shortcuts for Apple, Google, and Facebook authentication are provided alongside a general Particle Auth configuration, represented as "Particle."
 
 Built using **RainbowKit** (+ Particle extension), **Wagmi**, **Typescript**, and **Particle Auth**.
 
