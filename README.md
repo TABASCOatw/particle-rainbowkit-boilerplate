@@ -49,7 +49,7 @@ npm run dev
 ```
 OR
 ```
-yarn start
+yarn dev
 ```
 
 ##
