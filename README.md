@@ -24,7 +24,7 @@ Particle Auth, a component of Particle Network's Wallet-as-a-Service, enables se
 
 ### Clone this repository
 ```
-git clone https://github.com/TABASCOatw/particle-rainbowkit.git
+git clone https://github.com/TABASCOatw/particle-rainbowkit-boilerplate.git
 ```
 
 ### Install dependencies
