@@ -1,8 +1,8 @@
 {
-  "name": "react-typescript",
+  "name": "particle-rainbowkit",
   "version": "1.0.0",
   "type": "module",
-  "description": "Example of Particle ",
+  "description": "Boilerplate application for Particle Auth integration within RainbowKit",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
